@@ -9,7 +9,7 @@ In this event, students of the Five Colleges will have a chance to play with dat
 
 ## Sign-up
 
-Please sign-up for the event [on this Google form](). By signing up, you also gives us permission to add you on a mailing list for updates about the event. Your e-mail address will not be made public and will be removed from our list when the event is over.
+Please sign-up for the event [on this Google form](https://docs.google.com/forms/d/19SDqjypa8rImVkHpJVgr8Y7e3EtV5oGPnESB9TpGvQo/viewform?usp=send_form). By signing up, you also gives us permission to add you on a mailing list for updates about the event. Your e-mail address will not be made public and will be removed from our list when the event is over.
 
 ## Dates & Venue
 
