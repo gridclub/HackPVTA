@@ -2,9 +2,9 @@
 layout: default
 ---
 
-The [GRiD (Graduate Researchers interested in Data) club](http://www.gridclub.io) at [UMass Amherst](http://www.umass.edu) is partnering with the [Pioneer Valley Transit Authority](http://pvta.com/) to host the first HackPVTA event!
+The [GRiD (Graduate Researchers interested in Data) club](http://www.gridclub.io) at [UMass Amherst](http://www.umass.edu) is partnering with the [Pioneer Valley Transit Authority](http://pvta.com/)(PVTA) to host the first HackPVTA event!
 
-In this event, students of the Five Colleges will have a chance to play with data from the Pioneer Valley Transit Authority (PVTA). 
+In this event, students of the Five Colleges will have a chance to play with data from the PVTA. 
 
 ## Dates & Venue
 
