@@ -37,7 +37,7 @@ Johnathan Cornelissen and Nick Carchedi, [DataCamp](https://www.datacamp.com/)
 Glassdoor’s 25 Best Jobs in America for 2016 ranks Data Scientist number one according to three factors: number of job openings, median base salary, and overall career opportunity. In this talk, Nick and Jonathan discuss the main trends in the data science labor market, what skills are relevant to aspiring data scientists, and how DataCamp is helping to provide these skills by democratizing data science education.
 
 
-## Sign-up
+## <a name="register"></a> Sign-up 
 
 Please sign-up for the event [on this Google form](http://goo.gl/forms/8cvEHmA8lG). By signing up, you also give us permission to add you on a mailing list for updates about the event. Your e-mail address will *not* be made public without your consent and *will be removed* from our list when the event is over.
 
