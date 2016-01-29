@@ -8,6 +8,7 @@ The [Graduate Researchers interested in Data club](http://www.gridclub.io) (GRiD
 - [About the Data](#dataset)
 - [Keynote](#keynote)
 - [Register](#register)
+- [Acknowledgements](#ack)
 
 ## <a name="timeplace"></a> Dates & Venue 
 
@@ -43,5 +44,10 @@ Please sign-up for the event [on this Google form](http://goo.gl/forms/8cvEHmA8l
 
 
 
-## Acknowledgements
-# 
+## <a name="ack"></a>Acknowledgements
+
+HackPVTA could not have taken off without the support of various organizations & people. We thank 
+
+* The [Department of Mathematics & Statistics](https://www.math.umass.edu/) at UMass Amherst for allowing us to use their seminar room in the 16th floor and for support with some of the logistics of the Hackathon. 
+
+** More to follow!**
