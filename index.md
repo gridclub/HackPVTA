@@ -23,7 +23,7 @@ The event will take place at the 16th floor of LGRT, Room 1634.
 
 ## <a name="dataset"></a> About the Data
 
-We will be working with instantaneous (sub-minute) PVTA bus location and ridership data. We anticipate having over 6 million rows encompasing a year's worth of historical data. Available data will include: 
+We will be working with instantaneous (sub-minute) PVTA bus location and ridership data. We anticipate having over 6 million rows encompassing a year's worth of historical data. Available data will include: 
 
 - Vehicle information (identifier, name)
 - Route information (identifier, name, stops, schedules)
