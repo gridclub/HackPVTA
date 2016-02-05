@@ -65,8 +65,7 @@ We will be working with instantaneous (sub-minute) PVTA bus location and ridersh
 Check back next week for a complete description of data and objectives.
 
 ## <a name="keynote"></a> **Keynote Talk**: *Supply and Demand of Data Science Talent* 
-
-Jonathan Cornelissen and Nick Carchedi, [DataCamp](https://www.datacamp.com/)
+Martijn Theuwissen and Nick Carchedi, [DataCamp](https://www.datacamp.com/)
 
 Glassdoor’s 25 Best Jobs in America for 2016 ranks Data Scientist number one according to three factors: number of job openings, median base salary, and overall career opportunity. In this talk, Nick and Jonathan discuss the main trends in the data science labor market, what skills are relevant to aspiring data scientists, and how DataCamp is helping to provide these skills by democratizing data science education.
 
