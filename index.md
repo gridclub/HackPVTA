@@ -5,6 +5,7 @@ layout: default
 The [Graduate Researchers interested in Data club](http://www.gridclub.io) (GRiD) at [UMass Amherst](http://www.umass.edu) is partnering with the [Pioneer Valley Transit Authority](http://pvta.com/)(PVTA) to host the first HackPVTA event!
 
 - [Dates and Venue](#timeplace)
+- [Schedule](#sch)
 - [About the Data](#dataset)
 - [Keynote](#keynote)
 - [Register](#register)
@@ -20,6 +21,37 @@ End: **Sunday, Feb. 7, 1:00 PM**
 The event will take place at the 16th floor of LGRT, Room 1634.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2946.5895259223744!2d-72.52986339931638!3d42.39389002908238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e6d27a14795047%3A0xc76f76aee8c12de1!2sLederle+Graduate+Research+Tower%2C+Amherst%2C+MA+01002%2C+USA!5e0!3m2!1sen!2suk!4v1452441692477" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+## <a name="sch"></a> Schedule
+
+### Friday 
+```
+6:00 pm  : Doors open. Opening Talk by DataCamp.  
+Speakers will be Martijn Theuwissen (co-founder, CMO) and Nick Carchedi (Director of Content Partnerships).
+
+7:00 pm : Dataset sharing, team registration. Dinner (Antonio’s Pizza). 
+12:00 : Doors close for the day. 
+```
+
+### Saturday
+```
+8:00: Doors open.
+8:30: Breakfast (UMass Catering)
+12:00 Deadline for team registration
+1:00: Lunch (Subway)
+5:30: Dinner (Bueno y Sano)
+7:00: Film screening--The Queen of Code
+12:00: Doors close for the day
+```
+
+### Sunday 
+```
+8:00: Doors open
+8:30: Breakfast (UMass Catering)
+12:00: End of hacking; Lunch served (Pita Pockets)
+12:30: Final Presentations
+1:30: Closing Remarks
+```
 
 ## <a name="dataset"></a> About the Data
 
