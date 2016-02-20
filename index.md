@@ -1,9 +1,13 @@
 ---
 layout: default
-
 ---
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+
 The [Graduate Researchers interested in Data club](http://www.gridclub.io) (GRiD) at [UMass Amherst](http://www.umass.edu) is partnering with the [Pioneer Valley Transit Authority](http://pvta.com/)(PVTA) to host the first HackPVTA event!
 
+- [Best Projects](#win)
 - [Dates and Venue](#timeplace)
 - [Schedule](#sch)
 - [About the Data](#dataset)
@@ -11,6 +15,17 @@ The [Graduate Researchers interested in Data club](http://www.gridclub.io) (GRiD
 - [Register](#register)
 - [Mailing List](#mail)
 - [Acknowledgements](#ack)
+
+
+
+<i class="fa fa-graduation-cap"></i>
+
+## <a name="win"></a> Best Projects
+
+SOON
+
+
+
 
 ## <a name="timeplace"></a> Dates & Venue 
 
