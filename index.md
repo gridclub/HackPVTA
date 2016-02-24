@@ -18,10 +18,8 @@ The [Graduate Researchers interested in Data club](http://www.gridclub.io) (GRiD
 
 
 
-<i class="fa fa-graduation-cap fa-5x"></i>
 
-## <a name="win"></a> Hall of Fame
-
+## <a name="win"></a> Hall of Fame <i class="fa fa-graduation-cap fa-5x"></i>
 Here are the three projects that stood out, according to our illustrious judges!
 
 * Team **Bayes' rule** (Aruni Roy Chowdhury, Rajarshi Roychowdhury) won the "BB-8" award for impressive technical complexity and visualization. 
@@ -86,50 +84,15 @@ Martijn Theuwissen and Nick Carchedi, [DataCamp](https://www.datacamp.com/)
 
 Glassdoor’s 25 Best Jobs in America for 2016 ranks Data Scientist number one according to three factors: number of job openings, median base salary, and overall career opportunity. In this talk, Nick and Jonathan discuss the main trends in the data science labor market, what skills are relevant to aspiring data scientists, and how DataCamp is helping to provide these skills by democratizing data science education.
 
-
-## <a name="register"></a> Sign-up 
-
-Please sign-up for the event [on this Google form](http://goo.gl/forms/8cvEHmA8lG). By signing up, you also give us permission to add you on a mailing list for updates about the event. Your e-mail address will *not* be made public without your consent and *will be removed* from our list when the event is over.
-
-## <a name="mail"></a> Mailing List
-
-If you have already signed-up above, you **don't** need to also add your e-mail here (but it won't hurt).  
-
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//github.us9.list-manage.com/subscribe/post?u=d6af31d8255df70c3ca40ddf9&amp;id=690dcb250f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d6af31d8255df70c3ca40ddf9_690dcb250f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-<!--End mc_embed_signup-->
-
 ## <a name="ack"></a>Acknowledgements
 
 HackPVTA could not have taken off without the support of various organizations & people. We acknowledge the support of : 
 
+* The Pioneer Valley Transit Authority.
+* DataCamp.
 * The Department of Mathematics & Statistics, UMass Amherst.
 * The Five College Statistics Program. 
 * The Department of Mathematics & Statistics, Amherst College. 
 * The Department of Biostatistics and Epidemiology, School of Public Health and Health Sciences, UMass Amherst.
-* The Graduate Student Senate, UMass Amherst
+* The Graduate Student Senate, UMass Amherst.
+
