@@ -128,10 +128,8 @@ If you have already signed-up above, you **don't** need to also add your e-mail 
 
 HackPVTA could not have taken off without the support of various organizations & people. We acknowledge the support of : 
 
-* The Department of Mathematics & Statistics at UMass Amherst.
+* The Department of Mathematics & Statistics, UMass Amherst.
 * The Five College Statistics Program. 
-* The Department of Mathematics & Statistics at Amherst College. 
-* 
-* 
-
-** More to follow!**
+* The Department of Mathematics & Statistics, Amherst College. 
+* The Department of Biostatistics and Epidemiology, School of Public Health and Health Sciences, UMass Amherst.
+* The Graduate Student Senate, UMass Amherst
