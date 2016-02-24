@@ -18,13 +18,15 @@ The [Graduate Researchers interested in Data club](http://www.gridclub.io) (GRiD
 
 
 
-<i class="fa fa-graduation-cap"></i>
+<i class="fa fa-graduation-cap fa-5x"></i>
 
-## <a name="win"></a> Best Projects
+## <a name="win"></a> Hall of Fame
 
-SOON
+Here are the three projects that stood out, according to our illustrious judges!
 
-
+* Team **Bayes' rule** (Aruni Roy Chowdhury, Rajarshi Roychowdhury) won the "BB-8" award for impressive technical complexity and visualization. 
+* Team **Abandoned Ship** (Alex Bogdan, Katie Leap) won the "Sheldon" award for best actionable insight.
+* Team **Man of Steele** (Steele H. Valenzuela) won the "Back to the Future" award for an impressive project idea with a lot of potential, given more work. 
 
 
 ## <a name="timeplace"></a> Dates & Venue 
@@ -35,7 +37,7 @@ End: **Sunday, Feb. 7, 1:00 PM**
 
 The event will take place at the 16th floor of LGRT, Room 1634.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2946.5895259223744!2d-72.52986339931638!3d42.39389002908238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e6d27a14795047%3A0xc76f76aee8c12de1!2sLederle+Graduate+Research+Tower%2C+Amherst%2C+MA+01002%2C+USA!5e0!3m2!1sen!2suk!4v1452441692477" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2946.5895259223744!2d-72.52986339931638!3d42.39389002908238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e6d27a14795047%3A0xc76f76aee8c12de1!2sLederle+Graduate+Research+Tower%2C+Amherst%2C+MA+01002%2C+USA!5e0!3m2!1sen!2suk!4v1452441692477" width="200" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## <a name="sch"></a> Schedule
 
@@ -124,8 +126,10 @@ If you have already signed-up above, you **don't** need to also add your e-mail 
 
 ## <a name="ack"></a>Acknowledgements
 
-HackPVTA could not have taken off without the support of various organizations & people. We thank 
+HackPVTA could not have taken off without the support of various organizations & people. We acknowledge the support of : 
 
-* The [Department of Mathematics & Statistics](https://www.math.umass.edu/) at UMass Amherst for allowing us to use their seminar room in the 16th floor and for support with some of the logistics of the Hackathon. 
-
-** More to follow!**
+* The Department of Mathematics & Statistics, UMass Amherst.
+* The Five College Statistics Program. 
+* The Department of Mathematics & Statistics, Amherst College. 
+* The Department of Biostatistics and Epidemiology, School of Public Health and Health Sciences, UMass Amherst.
+* The Graduate Student Senate, UMass Amherst
